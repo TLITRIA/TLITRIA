@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TLITRIA.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on making useful or funny software.
 - 📫 My mailbox : darkfor9es0t@163.com(seldom check it :) ) 
 
